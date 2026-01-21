@@ -1,11 +1,11 @@
-📊 Impact of Remote Work on Mental Health
+**📊 Impact of Remote Work on Mental Health**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes the Impact of Remote Work on Mental Health using real-world survey data.
 The objective is to explore how remote working conditions influence stress levels, job satisfaction, work-life balance, and overall mental well-being.
 
-The project combines:
+**The project combines:**
 
 Data preprocessing and analysis using Python (Jupyter Notebook)
 
@@ -15,13 +15,13 @@ Insights derived from an Excel-based dataset
 
 This project is useful for organizations, HR teams, and researchers to understand mental health trends in remote work environments.
 
-🗂️ Project Structure
+**🗂️ Project Structure**
 ├── Impact_of_Remote_Work_on_Mental_Health.xls   # Raw dataset
 ├── code.ipynb                                  # Data analysis and visualization notebook
 ├── interactive_dashboards.html                # Interactive dashboard output
 ├── README.md                                  # Project documentation
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python
 
@@ -37,7 +37,7 @@ Excel – Dataset storage
 
 HTML (Plotly Dashboard) – Interactive visualization
 
-📊 Key Features
+**📊 Key Features**
 
 Data cleaning and preprocessing
 
@@ -57,7 +57,7 @@ Interactive dashboard for better user experience
 
 Insightful conclusions based on data patterns
 
-🚀 How to Run the Project
+**🚀 How to Run the Project**
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/impact-of-remote-work-mental-health.git
 cd impact-of-remote-work-mental-health
@@ -71,7 +71,7 @@ jupyter notebook code.ipynb
 
 Run all cells to reproduce the analysis and generate visualizations.
 
-🌐 View Interactive Dashboard
+**🌐 View Interactive Dashboard**
 
 Open the file directly in your browser:
 
@@ -80,7 +80,7 @@ interactive_dashboards.html
 
 This file contains interactive charts for better exploration of the results.
 
-📈 Dataset Description
+**📈 Dataset Description**
 
 The dataset (Impact_of_Remote_Work_on_Mental_Health.xls) includes attributes such as:
 
@@ -98,7 +98,7 @@ Mental health indicators
 
 These features are used to analyze patterns and correlations affecting employee well-being.
 
-🔍 Results & Insights
+**🔍 Results & Insights**
 
 Identified key factors affecting mental health in remote work
 
@@ -108,7 +108,7 @@ Visualized relationships between work mode and well-being
 
 Provided data-driven insights for decision-making
 
-📌 Future Enhancements
+**📌 Future Enhancements**
 
 Add machine learning models for mental health prediction
 
@@ -118,11 +118,12 @@ Add more demographic and psychological features
 
 Real-time data integration
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Deeksha Jain
 
 
-📜 License
+**📜 License**
+
 
 This project is for academic and educational purposes.
