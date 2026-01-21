@@ -16,13 +16,14 @@ Insights derived from an Excel-based dataset
 This project is useful for organizations, HR teams, and researchers to understand mental health trends in remote work environments.
 
 **🗂️ Project Structure**
-├── Impact_of_Remote_Work_on_Mental_Health.xls   # Raw dataset
 
-├── code.ipynb                                  # Data analysis and visualization notebook
+├── Impact_of_Remote_Work_on_Mental_Health.xls                # Raw dataset
 
-├── interactive_dashboards.html                # Interactive dashboard output
+├── code.ipynb                                                # Data analysis and visualization notebook
 
-├── README.md                                  # Project documentation
+├── interactive_dashboards.html                                # Interactive dashboard output
+
+├── README.md                                                  # Project documentation
 
 **🛠️ Technologies Used**
 
@@ -131,4 +132,5 @@ Deeksha Jain
 
 
 This project is for academic and educational purposes.
+
 
