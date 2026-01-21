@@ -17,8 +17,11 @@ This project is useful for organizations, HR teams, and researchers to understan
 
 **🗂️ Project Structure**
 ├── Impact_of_Remote_Work_on_Mental_Health.xls   # Raw dataset
+
 ├── code.ipynb                                  # Data analysis and visualization notebook
+
 ├── interactive_dashboards.html                # Interactive dashboard output
+
 ├── README.md                                  # Project documentation
 
 **🛠️ Technologies Used**
@@ -43,7 +46,7 @@ Data cleaning and preprocessing
 
 Exploratory Data Analysis (EDA)
 
-Visualization of:
+**Visualization of:**
 
 Stress levels
 
@@ -60,6 +63,7 @@ Insightful conclusions based on data patterns
 **🚀 How to Run the Project**
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/impact-of-remote-work-mental-health.git
+
 cd impact-of-remote-work-mental-health
 
 2️⃣ Install Required Libraries
@@ -127,3 +131,4 @@ Deeksha Jain
 
 
 This project is for academic and educational purposes.
+
